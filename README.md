@@ -7,13 +7,6 @@
 This tutorial outlines the process of creating a Subscription and Resource Group in Microsoft Azure and a Storage Account inside the Resource Group created in Microsoft Azure.<br />
 
 
-<h2>Video Demonstrations</h2>
-
-- ### [YouTube: How to create a Subscription in Microsoft Azure](https://www.youtube.com/watch?v=qzHrz7Q5474)
-- ### [YouTube: How to create a Resource Group in Microsoft Azure](https://www.youtube.com/watch?v=S9Pi7OwY378)
-- ### [YouTube: How to create a Storage Account in Microsoft Azure](https://www.youtube.com/watch?v=apoBN6NsluU)
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machine/Computer)
